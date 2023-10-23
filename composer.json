@@ -1,0 +1,19 @@
+{
+    "name": "varsha/vframe",
+    "description": "A simple PHP framework",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Varsha\\Vframe\\": "core/",
+            "App\\":"App/"
+        }
+    },
+    "authors": [
+        {
+            "name": "anish",
+            "email": "anishvm@live.in"
+        }
+    ],
+    "minimum-stability": "alpha",
+    "require": {}
+}
